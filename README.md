@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk" alt="Java">
   </a>
     <a href="https://github.com/johnbrandonjackson">
-    <img src="https://img.shields.io/badge/c-black?style=for-the-badge&logo=c" alt="C">
+    <img src="https://img.shields.io/badge/c-black?style=for-the-badge&logo=" alt="C">
   </a>
   <a href="https://github.com/johnbrandonjackson">
     <img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c++" alt="C++">
@@ -116,14 +116,11 @@
 </p>
 
 
-/
 
-- 👋 Hi, I’m John
-- 👀 I’m interested in Command-line-interface and Programming
-- 🌱 I’m currently learning C, C++, Python, Javascript, HTML/CCS
-- 💞️ I’m looking to collaborate on anything really
-- 📫 How to reach me: contactjohnjackson@protonmail.com
 
-johnbrandonjackson/johnbrandonjackson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-  Hi, I’m John
+-  I’m interested in Command-line-interface and Programming
+-  I’m currently learning C, C++, Python, Javascript, HTML/CCS
+-  I’m looking to collaborate on anything really
+
+
