@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<h3 align="center">Languages:</h3>
+<h3 align="center">Programming Languages:</h3>
 <p align="center">
   <a href="https://github.com/johnbrandonjackson">
     <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" alt="Python">
@@ -35,7 +35,7 @@
   </a>
 </p>
 
-<h3 align="center">Technologies & Frameworks:</h3>
+<h3 align="center">Tools I use:</h3>
 <p align="center">
 
   <a href="https://github.com/johnbrandonjackson">
@@ -65,7 +65,7 @@
 </p>
 
 
-<h3 align="center">OS:</h3>
+<h3 align="center">Operating Systems:</h3>
 <p align="center">
   <a href="https://github.com/johnbrandonjackson">
     <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows" alt="Windows">
