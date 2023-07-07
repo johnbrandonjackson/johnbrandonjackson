@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk" alt="Java">
   </a>
     <a href="https://github.com/johnbrandonjackson">
-    <img src="https://img.shields.io/badge/c-black?style=for-the-badge&logo=" alt="C">
+    <img src="https://img.shields.io/badge/raspberrypi-black?style=for-the-badge&logo=raspberry-pi" alt="Raspberry Pi">
   </a>
   <a href="https://github.com/johnbrandonjackson">
     <img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c++" alt="C++">
