@@ -93,7 +93,7 @@
     <img src="https://img.shields.io/badge/SUSE-black?style=for-the-badge&logo=SUSE" alt="SUSE">
   </a>
   <a href="https://github.com/johnbrandonjackson">
-    <img src="https://img.shields.io/badge/ZorinOS-black?style=for-the-badge&logo=ZorinOS" alt="ZorinOS">
+    <img src="https://img.shields.io/badge/Kali-black?style=for-the-badge&logo=Kali" alt="Kali">
   </a>
 
 
