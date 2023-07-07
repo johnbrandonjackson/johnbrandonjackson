@@ -21,9 +21,6 @@
   <a href="https://github.com/johnbrandonjackson">
     <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk" alt="Java">
   </a>
-    <a href="https://github.com/johnbrandonjackson">
-    <img src="https://img.shields.io/badge/raspberrypi-black?style=for-the-badge&logo=raspberry-pi" alt="Raspberry Pi">
-  </a>
   <a href="https://github.com/johnbrandonjackson">
     <img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c++" alt="C++">
   </a>
@@ -80,8 +77,8 @@
     <img src="https://img.shields.io/badge/Android-black?style=for-the-badge&logo=Android" alt="Android">
   </a>
   
-  <a href="https://github.com/johnbrandonjackson">
-    <img src="https://img.shields.io/badge/RaspberryPie-black?style=for-the-badge&logo=RaspberryPie" alt="RaspberryPie">
+    <a href="https://github.com/johnbrandonjackson">
+    <img src="https://img.shields.io/badge/raspberrypi-black?style=for-the-badge&logo=raspberry-pi" alt="Raspberry Pi">
   </a>
   
   <a href="https://github.com/johnbrandonjackson">
