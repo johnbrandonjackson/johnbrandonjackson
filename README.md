@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk" alt="Java">
   </a>
     <a href="https://github.com/johnbrandonjackson">
-    <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=" alt="C">
+    <img src="https://img.shields.io/badge/c-black?style=for-the-badge&logo=" alt="C">
   </a>
   <a href="https://github.com/johnbrandonjackson">
     <img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c++" alt="C++">
@@ -37,32 +37,30 @@
 
 <h3 align="center">Technologies & Frameworks:</h3>
 <p align="center">
-  <a href="https://hub.docker.com/u/johnbrandonjackson">
-    <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5" alt="HTML5">
-  </a>
-  <a href="https://hub.docker.com/u/johnbrandonjackson">
-    <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3" alt="CSS3">
-  </a>
-  <!-- <a href="https://github.com/zensilva">
-    <img src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker" alt="Docker">
-  </a> -->
+
   <a href="https://github.com/johnbrandonjackson">
     <img src="https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=visual-studio-code" alt="VS Code">
-  </a>
-  <a href="https://github.com/johnbrandonjackson">
-    <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql" alt="MySQL">
-  </a>
-  <a href="https://github.com/johnbrandonjackson">
-    <img src="https://img.shields.io/badge/raspberrypi-black?style=for-the-badge&logo=raspberry-pi" alt="Raspberry Pi">
-  </a>
-  <a href="https://github.com/johnbrandonjackson">
-    <img src="https://img.shields.io/badge/openmediavault-black?style=for-the-badge&logo=openmediavault" alt="OpenMediaVault">
   </a>
   <a href="https://github.com/johnbrandonjackson">
     <img src="https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm" alt="PyCharm">
   </a>
   <a href="https://github.com/johnbrandonjackson">
     <img src="https://img.shields.io/badge/partedmagic-black?style=for-the-badge&logo=parted-magic" alt="Parted Magic">
+  </a>
+    <a href="https://github.com/johnbrandonjackson">
+    <img src="https://img.shields.io/badge/dban-black?style=for-the-badge&logo=dban" alt="DBan">
+  </a>
+    <a href="https://github.com/johnbrandonjackson">
+    <img src="https://img.shields.io/badge/nwipe-black?style=for-the-badge&logo=nwipe" alt="Nwipe">
+  </a>
+    <a href="https://github.com/johnbrandonjackson">
+    <img src="https://img.shields.io/badge/gparted-black?style=for-the-badge&logo=gparted" alt="Gparted">
+  </a>
+    <a href="https://github.com/johnbrandonjackson">
+    <img src="https://img.shields.io/badge/clonezilla-black?style=for-the-badge&logo=clonezilla" alt="Clonezilla">
+  </a>
+    <a href="https://github.com/johnbrandonjackson">
+    <img src="https://img.shields.io/badge/rescuezilla-black?style=for-the-badge&logo=rescuezilla" alt="Rescuezilla">
   </a>
 </p>
 
@@ -75,18 +73,22 @@
   <a href="https://github.com/johnbrandonjackson">
     <img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux" alt="Linux">
   </a>
-  <a href="https://github.com/johnbrandonjackson">
-    <img src="https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=Ubuntu" alt="Ubuntu">
-  </a>
-   <a href="https://github.com/johnbrandonjackson">
+     <a href="https://github.com/johnbrandonjackson">
     <img src="https://img.shields.io/badge/Apple-black?style=for-the-badge&logo=Apple" alt="Apple">
-   </a>
-  <a href="https://github.com/johnbrandonjackson">
-    <img src="https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=Debian" alt="Debian">
   </a>
   <a href="https://github.com/johnbrandonjackson">
     <img src="https://img.shields.io/badge/Android-black?style=for-the-badge&logo=Android" alt="Android">
   </a>
+  <a href="https://github.com/johnbrandonjackson">
+    <img src="https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=Ubuntu" alt="Ubuntu">
+  </a>
+    <a href="https://github.com/johnbrandonjackson">
+    <img src="https://img.shields.io/badge/Fedora-black?style=for-the-badge&logo=Fedora" alt="Fedora">
+  </a>
+  <a href="https://github.com/johnbrandonjackson">
+    <img src="https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=Debian" alt="Debian">
+  </a>
+
 </p>
 
 <details>
