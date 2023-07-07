@@ -1,7 +1,7 @@
 <h1 align="center">John Brandon Jackson </h1>
 
 <p align="center">
-  <b> I am studying for my Bachelor's Degree in Computer Science. 🔐<br>
+  <b> I am studying for my Bachelor's Degree in Computer Science. <br>
     Want to share information?</p>
   <i>
 <p align="center">
