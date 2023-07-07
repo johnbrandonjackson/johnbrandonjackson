@@ -89,6 +89,10 @@
     <img src="https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=Debian" alt="Debian">
   </a>
 
+  <a href="https://github.com/johnbrandonjackson">
+    <img src="https://img.shields.io/badge/SUSE-black?style=for-the-badge&logo=SUSE" alt="SUSE">
+  </a>
+
 </p>
 
 <details>
