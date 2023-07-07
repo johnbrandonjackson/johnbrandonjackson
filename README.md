@@ -1,8 +1,8 @@
-<h1 align="center">Zen K. Silva 🌇</h1>
+<h1 align="center">John Brandon Jackson </h1>
 
 <p align="center">
-  <b>Currently, I am studying computer science. I am obsessed with everything related to cyber security. 🔐<br>
-    Feel free to check out my website to learn more.</p>
+  <b> I am studying for my Bachelor's Degree in Computer Science. 🔐<br>
+    Want to share information?</p>
   <i>
 <p align="center">
   &darr; <br>
