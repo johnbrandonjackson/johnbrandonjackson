@@ -93,7 +93,7 @@
     <img src="https://img.shields.io/badge/SUSE-black?style=for-the-badge&logo=SUSE" alt="SUSE">
   </a>
   <a href="https://github.com/johnbrandonjackson">
-    <img src="https://img.shields.io/badge/Kali Linux-black?style=for-the-badge&logo=Kali Linux" alt="Kali Linux">
+    <img src="https://img.shields.io/badge/Kali Linux-black?style=for-the-badge&logo=Kali Linux" alt="Kali">
   </a>
 
 
