@@ -79,6 +79,11 @@
   <a href="https://github.com/johnbrandonjackson">
     <img src="https://img.shields.io/badge/Android-black?style=for-the-badge&logo=Android" alt="Android">
   </a>
+  
+  <a href="https://github.com/johnbrandonjackson">
+    <img src="https://img.shields.io/badge/RaspberryPie-black?style=for-the-badge&logo=RaspberryPie" alt="RaspberryPie">
+  </a>
+  
   <a href="https://github.com/johnbrandonjackson">
     <img src="https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=Ubuntu" alt="Ubuntu">
   </a>
