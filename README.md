@@ -22,10 +22,8 @@
     <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk" alt="Java">
   </a>
   <a href="https://github.com/johnbrandonjackson">
-    <img src="https://img.shields.io/badge/c-black?style=for-the-badge&logo=c" alt="C++">
+    <img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c" alt="C++">
   </a>
-  <a href="https://github.com/johnbrandonjackson">
-    <img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus" alt="SQL">
   </a><br>
   <a href="https://github.com/johnbrandonjackson">
     <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html" alt="HTML">
