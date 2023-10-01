@@ -1,11 +1,6 @@
 <h1 align="center">John B Jackson </h1>
 
-<p align="center">
-  <b>  I collect data I find online!  <br>
-<p align="center">
-    <b>  <a href="https://archive.org/details/@johnbrandonjackson">Internet Archive</a>  <br>
-<p align="center">  
-     <b> Want to share information? <br> </p>
+
     
   <i>
 <p align="center">
@@ -23,19 +18,16 @@
     <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" alt="Python">
   </a>
   <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk" alt="Java">
+    <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" alt="JavaScript">
   </a>
     <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/c-black?style=for-the-badge&logo=" alt="C">
+    <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=c" alt="C">
   </a>
   <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c++" alt="C++">
+    <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5" alt="HTML">
   </a>
   <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html" alt="HTML">
-  </a>
-  <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css" alt="CSS">
+    <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3" alt="CSS">
   </a>
 </p>
 
@@ -49,22 +41,22 @@
     <img src="https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm" alt="PyCharm">
   </a>
   <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/partedmagic-black?style=for-the-badge&logo=parted-magic" alt="Parted Magic">
+    <img src="https://img.shields.io/badge/PARTEDMAGIC-black?style=for-the-badge&logo=partedmagic" alt="Parted Magic">
   </a>
     <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/dban-black?style=for-the-badge&logo=dban" alt="DBan">
+    <img src="https://img.shields.io/badge/DBAN-black?style=for-the-badge&logo=Dban" alt="DBan">
   </a>
     <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/nwipe-black?style=for-the-badge&logo=nwipe" alt="Nwipe">
+    <img src="https://img.shields.io/badge/NWIPE-black?style=for-the-badge&logo=nwipe" alt="Nwipe">
   </a>
     <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/gparted-black?style=for-the-badge&logo=gparted" alt="Gparted">
+    <img src="https://img.shields.io/badge/GPARTED-black?style=for-the-badge&logo=Gparted" alt="Gparted">
   </a>
     <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/clonezilla-black?style=for-the-badge&logo=clonezilla" alt="Clonezilla">
+    <img src="https://img.shields.io/badge/CLONEZILLA-black?style=for-the-badge&logo=Clonezilla" alt="Clonezilla">
   </a>
     <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/rescuezilla-black?style=for-the-badge&logo=rescuezilla" alt="Rescuezilla">
+    <img src="https://img.shields.io/badge/RESCUEZILLA-black?style=for-the-badge&logo=Rescuezilla" alt="Rescuezilla">
   </a>
 </p>
 
@@ -94,16 +86,38 @@
   </a>
   <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=Debian" alt="Debian">
+  <a href="https://github.com/johnbjackson">
+    <img src="https://img.shields.io/badge/REDHAT-black?style=for-the-badge&logo=REDHAT" alt="REDHAT">
+  </a>
   </a>
   <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/SUSE-black?style=for-the-badge&logo=SUSE" alt="SUSE">
   </a>
   <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/Kali-black?style=for-the-badge&logo=Kali Linux" alt="Kali">
+    <img src="https://img.shields.io/badge/ELEMENTARY-black?style=for-the-badge&logo=ELEMENTARY" alt="elementary OS">
+  </a>
+  <a href="https://github.com/johnbjackson">
+    <img src="https://img.shields.io/badge/ZORIN-black?style=for-the-badge&logo=ZORIN" alt="ZORINOS">
   </a>
 
-
-</p>
+  </a>
+    <a href="https://github.com/johnbjackson">
+      <img src="https://img.shields.io/badge/LINUXMINT-black?style=for-the-badge&logo=LINUXMINT" alt="LINUX MINT">
+  </a>
+  <a href="https://github.com/johnbjackson">
+    <img src="https://img.shields.io/badge/MANJARO-black?style=for-the-badge&logo=MANJARO" alt="MANJARO">
+  </a>
+  <a href="https://github.com/johnbjackson">
+    <img src="https://img.shields.io/badge/POPOS-black?style=for-the-badge&logo=POPOS" alt="POP OS">
+  </a>
+    <a href="https://github.com/johnbjackson">
+    <img src="https://img.shields.io/badge/ARCHLINUX-black?style=for-the-badge&logo=ARCHLINUX" alt="ARCH LINUX">
+  </a>
+  <a href="https://github.com/johnbjackson">
+    <img src="https://img.shields.io/badge/Kali-black?style=for-the-badge&logo=Kali Linux" alt="Kali">
+  </a>
+  <a href="https://github.com/johnbjackson">
+    <img src="https://img.shields.io/badge/ALPINE LINUX-black?style=for-the-badge&logo=ALPINE LINUX" alt="ALPINE LINUX">
 
 <details>
   <summary align="center">GitHub Stats</summary>
@@ -130,8 +144,3 @@
     <img src="https://komarev.com/ghpvc/?username=johnbjackson&color=blue&style=flat" alt="Profile Views">
   </a>
 </p>
-
-</p>
-
-
-
