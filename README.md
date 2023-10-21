@@ -1,10 +1,35 @@
 <h1 align="center">John B Jackson </h1>
+<details>
+  <summary align="center">GitHub Stats</summary>
+  <p align="center">
+    <a href="https://github.com/johnbjackson">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnbjackson&theme=transparent" alt="Profile Details">
+    </a>
+    <a href="https://github.com/johnbjackson">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnbjackson&hide_border=true&card_width=338&theme=transparent" alt="Streak Stats">
+    </a>
+    <a href="https://github.com/johnbjackson">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=johnbjackson&theme=transparent" alt="Stats">
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/johnbjackson">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JohnJackson&theme=react&line_height=40&hide=css" alt="Top Languages">
+    </a>
+  </p>
+</details>
+
+<p align="center">
+  <a href="https://github.com/johnbjackson">
+    <img src="https://komarev.com/ghpvc/?username=johnbjackson&color=blue&style=flat" alt="Profile Views">
+  </a>
+</p>
 
 
     
   <i>
 <p align="center">
-  &darr; <br>
+   <br>
   <br>
   <a href="https://johnbjackson.github.io/">
     <img src="http://img.shields.io/badge/Github-black?style=flat-square&logo=Github" alt="Github">
@@ -118,29 +143,7 @@
   </a>
   <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/ALPINE LINUX-black?style=for-the-badge&logo=ALPINE LINUX" alt="ALPINE LINUX">
-
-<details>
-  <summary align="center">GitHub Stats</summary>
-  <p align="center">
-    <a href="https://github.com/johnbjackson">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnbjackson&theme=transparent" alt="Profile Details">
-    </a>
-    <a href="https://github.com/johnbjackson">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnbjackson&hide_border=true&card_width=338&theme=transparent" alt="Streak Stats">
-    </a>
-    <a href="https://github.com/johnbjackson">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=johnbjackson&theme=transparent" alt="Stats">
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/johnbjackson">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JohnJackson&theme=react&line_height=40&hide=css" alt="Top Languages">
-    </a>
-  </p>
-</details>
-
-<p align="center">
-  <a href="https://github.com/johnbjackson">
-    <img src="https://komarev.com/ghpvc/?username=johnbjackson&color=blue&style=flat" alt="Profile Views">
   </a>
-</p>
+  <a href="https://github.com/johnbjackson">
+    <img src="https://img.shields.io/badge/FreeBSD-black?style=for-the-badge&logo=FreeBSD" alt="FreeBSD">
+  </a>
