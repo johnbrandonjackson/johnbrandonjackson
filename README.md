@@ -146,9 +146,6 @@
     <a href="https://en.wikipedia.org/wiki/Arch_Linux">
     <img src="https://img.shields.io/badge/ARCHLINUX-black?style=for-the-badge&logo=ARCHLINUX" alt="ARCH LINUX">
   </a>
-  <a href="https://www.kali.org/">
-    <img src="https://img.shields.io/badge/Kali-black?style=for-the-badge&logo=Kali Linux" alt="Kali">
-  </a>
   <a href="https://alpinelinux.org/about/">
     <img src="https://img.shields.io/badge/ALPINE LINUX-black?style=for-the-badge&logo=ALPINE LINUX" alt="ALPINE LINUX">
   </a>
