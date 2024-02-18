@@ -39,6 +39,14 @@
 
 <h3 align="center">Programming:</h3>
 <p align="center">
+
+    
+ <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=visual-studio-code" alt="VS Code">
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/">
+    <img src="https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm" alt="PyCharm">
+  </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
     <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=c" alt="C">
   </a>
@@ -65,12 +73,6 @@
 <h3 align="center">Tools I use:</h3>
 <p align="center">
 
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=visual-studio-code" alt="VS Code">
-  </a>
-  <a href="https://www.jetbrains.com/pycharm/">
-    <img src="https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm" alt="PyCharm">
-  </a>
   <a href="https://partedmagic.com/">
     <img src="https://img.shields.io/badge/paertedmagic-black?style=for-the-badge&logo=PARTEDMAGIC" alt="Parted Magic">
   </a>
