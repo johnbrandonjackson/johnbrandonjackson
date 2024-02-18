@@ -157,9 +157,4 @@
   </a>
     <img src="https://img.shields.io/badge/Kali-black?style=for-the-badge&logo=Kali Linux" alt="Kali">
   </a>
-  <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/ALPINE LINUX-black?style=for-the-badge&logo=ALPINE LINUX" alt="ALPINE LINUX">
-  </a>
-  <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/FreeBSD-black?style=for-the-badge&logo=FreeBSD" alt="FreeBSD">
-  </a>
+  
