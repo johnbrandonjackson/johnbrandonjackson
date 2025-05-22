@@ -143,7 +143,7 @@
     <img src="https://img.shields.io/badge/POPOS-black?style=for-the-badge&logo=POPOS" alt="POP OS">
   </a>
     <a href="https://en.wikipedia.org/wiki/Arch_Linux">
-    <img src="https://img.shields.io/badge/ARCHLINUX-black?style=for-the-badge&logo=ARCHLINUX" alt="ARCH LINUX">
+    <img src="https://img.shields.io/badge/ARCHLINUX-black?style=for-the-badge&logo=ARCH LINUX" alt="ARCH LINUX">
   </a>
   <a href="https://www.kali.org/">
     <img src="https://img.shields.io/badge/Kali-black?style=for-the-badge&logo=Kali" alt="Kali">
